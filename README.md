@@ -1,4 +1,4 @@
-# CloudenabledWebApplication_for_example_testing
+# CloudenabledWebApplication
 CloudenabledWebApp for maven web apps
 
 ## By: Cloudenabled
