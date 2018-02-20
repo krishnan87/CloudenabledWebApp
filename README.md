@@ -1,4 +1,4 @@
-# CloudenabledWebAppss
+# CloudenabledWebApplication
 CloudenabledWebApp for maven web apps
 
 ## By: Cloudenabled
